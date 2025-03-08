@@ -1,0 +1,190 @@
+\documentclass[12pt]{exam}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{minibox}
+\usepackage{multirow}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{datetime}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+
+\pagestyle{headandfoot}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+%\newdateformat{\monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
+
+\newcommand{\N}{\mathbb{N}}
+
+\newcommand\dint{\displaystyle{\int}}
+\newcommand{\paper}[5]{
+    \setcounter{page}{1}
+    
+    \begin{minipage}{\textwidth}
+    \Large{\textbf{Tougaloo College}}\\
+    %\vspace{0.1in}\\  
+   % Bachelor of the Science of Engineering \\
+    %Academic Year #4\\
+    %\vspace{0.1in}\\
+    \textbf{#2}\\
+    \textbf{#5 - #3}\\
+    \end{minipage}
+    \hfill
+   % \begin{minipage}{3in}
+      %  \centering
+      %  \includegraphics[scale=0.23]{logo.jpg}
+    %\end{minipage}\\
+    %\hfill
+   % \vspace{0.1in}\\
+        \begin{minipage}{6in}
+            \textbf{\hspace{0.25in}Duration : #1 }
+        \end{minipage}
+        \hfill
+        \begin{minipage}{3in}
+            \textbf{March 19, 2025}
+        \end{minipage}
+    
+    \vspace{0.1in}
+    \rule[1ex]{\textwidth}{2pt}
+    }
+
+
+
+\extrafootheight{.5in}
+\cfoot{Page ~\thepage ~of ~\numpages}
+
+
+%\printanswers
+
+
+\marginpointname{ \points}
+\pointsinrightmargin
+\pointpoints{ Point}{ Points}
+\setlength{\rightpointsmargin}{3cm}
+\pointsdroppedatright
+\addpoints
+%\qformat{\textbf{Question \thequestion} \hfill}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+%\paper{duration}{Course}{Semester}{academic year}{Examination}
+\paper{50 min}{MAT222 - Calculus II}{Spring, 2025}{}{MID-EXAM}
+
+\noindent \textbf{Name :}  ...........................................................................................................\\
+\vspace{0.1in}\\
+\textbf{ID Number} : .................................................................\\
+\vspace{0.2in}\\
+\hspace*{0.2in}\textbf{Instructions to Candidates }
+\begin{itemize}
+    \item Calculators are \textbf{NOT} allowed. 
+    \item This paper consists of $6$ questions.
+    \item Answer all questions. 
+    \item All questions carry marks as indicated for each question or part thereof.
+    %\item Do not use red ink in answering the questions.
+    \item All drawings or sketches, if any, should be produced clearly.
+    \item Assume reasonable values for any data not given with the question paper. Clearly state any assumptions.
+    %\item All answers should be provided in English language.
+    %\item An electronic non-programmable calculator approved by the Faculty may be used.
+    %\item All examinations are conducted in accordance with the Rules \& Regulations currently in force at the University.
+\end{itemize}
+
+\newpage
+%\section*{Question 1}
+\begin{questions}
+
+\question[10] Use Midpoint Rule with the value \(n=5\) to approximate the integral (no need to simplify your answer):
+\[
+\int_0^1 \sqrt{x^3+1}~dx
+\] 
+\vfill
+\droptotalpoints
+\newpage
+
+\question Evaluate the integrals:
+\begin{parts}
+    \part[10] \(\displaystyle
+\int_0^1 (x^e+e^x)~dx
+\)
+\droppoints
+\vspace{2.5in}
+
+\part[10] \(\displaystyle
+    \int_{-2}^1 \dfrac{1}{x^4}~dx
+\) 
+\droppoints
+\vspace{2.5in}
+
+\part[10] \(\displaystyle
+\int 4x^3 e^{x^4}~dx
+\)
+\droppoints
+\vfill
+\newpage
+
+\part[10] \(\displaystyle
+\int_1^2 \dfrac{e^{1/x}}{x^2}~dx
+\)
+\droppoints
+\vspace{2.5in}
+
+\part[10] \(\displaystyle
+\int \sin^3 \theta \cos^4 \theta~d\theta
+\)
+\droppoints
+\vfill
+
+
+
+\end{parts}
+\droptotalpoints
+\newpage
+
+\question[20] Sketch the region enclosed by the given curves, then find the area of the region. \[
+y= \sin x,~ y=x, ~x =\pi/2,~x=\pi.
+\]
+\vfill
+\droptotalpoints
+\newpage
+
+\question[20] Use the washer or cylindrical shell method to find the volume of the solid obtained by rotating the region bounded by the curves $y^2=x$ and $x=2y$ about the $y-$axis. 
+
+\vfill
+\droptotalpoints
+\newpage
+
+\question[10] Find the average value of the following function on the interval \([-1,1]\). 
+\[
+f(x)=\dfrac{x^2}{(x^3+3)^2}
+\] 
+\vfill
+\droptotalpoints
+\newpage
+
+\question[15] Evaluate the following integral using integration by parts.
+\[
+\int t^2 \sin {\beta t}~dt,
+\] where \(\beta \) is a constant. 
+\vfill
+\droptotalpoints
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{questions}
+\end{document}
+
+
