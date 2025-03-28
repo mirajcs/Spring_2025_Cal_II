@@ -1,0 +1,106 @@
+\documentclass[12pt]{exam}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{minibox}
+\usepackage{multirow}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{datetime}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+
+\pagestyle{headandfoot}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+%\newdateformat{\monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
+
+
+
+
+\newcommand{\paper}[5]{
+    \setcounter{page}{1}
+    
+    \begin{minipage}{\textwidth}
+    \Large{\textbf{Tougaloo College}}\\
+    %\vspace{0.1in}\\  
+   % Bachelor of the Science of Engineering \\
+    %Academic Year #4\\
+    %\vspace{0.1in}\\
+    \textbf{#2}\\
+    \textbf{#5 - #3}\\
+    \end{minipage}
+    \hfill
+   % \begin{minipage}{3in}
+      %  \centering
+      %  \includegraphics[scale=0.23]{logo.jpg}
+    %\end{minipage}\\
+    %\hfill
+   % \vspace{0.1in}\\
+        %\begin{minipage}{6in}
+         %   \textbf{\hspace{0.25in}Due Date : #1}
+        %\end{minipage}
+    
+    \vspace{0.1in}
+    \rule[1ex]{\textwidth}{2pt}
+    }
+
+
+
+\extrafootheight{.5in}
+\cfoot{Page ~\thepage ~of ~\numpages}
+
+
+\printanswers
+
+
+\marginpointname{ \points}
+\pointsinrightmargin
+\pointpoints{ Point}{ Points}
+\setlength{\rightpointsmargin}{3cm}
+\pointsdroppedatright
+\addpoints
+%\qformat{\textbf{Question \thequestion} \hfill}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+%\paper{duration}{Course}{Semester}{academic year}{Examination}
+\paper{}{MAT222 - Calculus II}{Spring, 2025}{}{Howework 09}
+
+\section*{7.3 Exercises}
+\begin{questions}
+
+
+
+\question[] Evaluate the integral.
+
+\begin{parts}
+    \part[] \(\displaystyle \int \dfrac{x^2}{\sqrt{9-x^2}}~dx\)
+    \begin{solution}
+        \[\dfrac{9}{2} \left\{\sin^{-1}(x/3) - \dfrac{x\sqrt{9-x^2}}{9}\right\}+C\]
+    \end{solution}
+    \part[] \(\displaystyle \int_{0}^{1/2} x \sqrt{1-4x^2}~dx\)
+    \begin{solution}
+        \(\dfrac{1}{12}\)
+    \end{solution}
+\end{parts}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{questions}
+\end{document}
+
+
