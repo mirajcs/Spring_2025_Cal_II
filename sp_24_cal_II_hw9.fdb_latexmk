@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743528951.20651 "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_24_cal_II_hw9.tex" "sp_24_cal_II_hw9.pdf" "sp_24_cal_II_hw9" 1743528951.5524 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_24_cal_II_hw9.tex" 1743528950.7421 2686 42ccc8bd97b06ceb779c9106e1874d0b ""
+["pdflatex"] 1743531288.80239 "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_24_cal_II_hw9.tex" "sp_24_cal_II_hw9.pdf" "sp_24_cal_II_hw9" 1743531289.16252 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_24_cal_II_hw9.tex" 1743531288.61859 3136 7bf50aa1179e3c9a8f74c156a8934e7e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -27,7 +27,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -83,8 +82,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_24_cal_II_hw9.aux" 1743528951.51835 893 b63c0514d3ccefe27a0b638969f2d9ac "pdflatex"
-  "sp_24_cal_II_hw9.tex" 1743528950.7421 2686 42ccc8bd97b06ceb779c9106e1874d0b ""
+  "sp_24_cal_II_hw9.aux" 1743531289.1277 1139 f19d2bb80c7761a93833928135741483 "pdflatex"
+  "sp_24_cal_II_hw9.tex" 1743531288.61859 3136 7bf50aa1179e3c9a8f74c156a8934e7e ""
   (generated)
   "sp_24_cal_II_hw9.aux"
   "sp_24_cal_II_hw9.log"
