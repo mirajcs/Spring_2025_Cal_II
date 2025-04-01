@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  1 APR 2025 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  1 APR 2025 12:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_mar31.tex
-(/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_mar31.tex
+**/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_apr02.tex
+(/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_apr02.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls
@@ -601,8 +601,8 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count346
 \l__pdf_internal_box=\box81
-) (./sp_25_cal_II_lec_mar31.aux)
-\openout1 = `sp_25_cal_II_lec_mar31.aux'.
+) (./sp_25_cal_II_lec_apr02.aux)
+\openout1 = `sp_25_cal_II_lec_apr02.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -677,9 +677,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 13.
- (./sp_25_cal_II_lec_mar31.out) (./sp_25_cal_II_lec_mar31.out)
+ (./sp_25_cal_II_lec_apr02.out) (./sp_25_cal_II_lec_apr02.out)
 \@outlinefile=\write5
-\openout5 = `sp_25_cal_II_lec_mar31.out'.
+\openout5 = `sp_25_cal_II_lec_apr02.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
@@ -742,33 +742,22 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./sp_25_cal_II_lec_mar31.nav) [1
+) (./sp_25_cal_II_lec_apr02.nav) [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
+] [3
+
 ]
-<figures/fig_1.png, id=71, 543.02875pt x 230.8625pt>
-File: figures/fig_1.png Graphic file (type png)
-<use figures/fig_1.png>
-Package pdftex.def Info: figures/fig_1.png  used on input line 33.
-(pdftex.def)             Requested size: 325.81975pt x 138.51855pt.
-
-Overfull \hbox (18.52988pt too wide) in paragraph at lines 33--33
-[][]  
- []
-
-[3
-
- <./figures/fig_1.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 39.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 37.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [4
@@ -777,37 +766,65 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 
 ] [6
 
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
 ]
 \tf@nav=\write6
-\openout6 = `sp_25_cal_II_lec_mar31.nav'.
+\openout6 = `sp_25_cal_II_lec_apr02.nav'.
 
 \tf@toc=\write7
-\openout7 = `sp_25_cal_II_lec_mar31.toc'.
+\openout7 = `sp_25_cal_II_lec_apr02.toc'.
 
 \tf@snm=\write8
-\openout8 = `sp_25_cal_II_lec_mar31.snm'.
+\openout8 = `sp_25_cal_II_lec_apr02.snm'.
 
- (./sp_25_cal_II_lec_mar31.aux)
+ (./sp_25_cal_II_lec_apr02.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `sp_25_cal_II_lec_mar31.out' has not changed.
+Package rerunfilecheck Info: File `sp_25_cal_II_lec_apr02.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25168 strings out of 474116
- 509091 string characters out of 5743682
+ 25261 strings out of 474116
+ 510409 string characters out of 5743682
  1934187 words of memory out of 5000000
- 47022 multiletter control sequences out of 15000+600000
- 565419 words of font info for 62 fonts, out of 8000000 for 9000
+ 47084 multiletter control sequences out of 15000+600000
+ 570186 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,446b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on sp_25_cal_II_lec_mar31.pdf (6 pages, 126691 bytes).
+ 128i,14n,123p,446b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on sp_25_cal_II_lec_apr02.pdf (20 pages, 141801 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
- 13 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 594 PDF objects out of 1000 (max. 8388607)
+ 537 compressed objects within 6 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
