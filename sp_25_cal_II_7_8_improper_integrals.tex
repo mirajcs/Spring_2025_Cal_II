@@ -36,6 +36,44 @@
     \includegraphics[scale=0.5]{figures/fig_2.png}
 \end{frame}
 
+\begin{frame}{Example}
+    Evaluate the integral
+    \[
+        \int_1^\infty \frac{1}{x^2} \, dx
+    \]
+\end{frame}
+
+\begin{frame}{Definition of an Improper Integral of Type I}
+    \begin{itemize}
+        \item If \(\int_{a}^{t}f(x)dx\) exists for every number \(t \geq a\), then \[\int_a^\infty f(x)dx = \lim_{t \to \infty} \int_a^t f(x) dx\] provided this limit exists. \pause
+        \item If \(\int_{t}^{b}f(x)dx\) exists for every number \(t \leq b\), then \[\int_{-\infty}^b f(x)dx = \lim_{t \to -\infty} \int_t^b f(x) dx\] provided this limit exists. \pause
+        \item The improper integrals \(\int_a^\infty f(x)dx\) and \(\int_{-\infty}^b f(x)dx\) are called \textbf{convergent} if the corresponding limits exists and are finite. Otherwise, they are called \textbf{divergent}.\pause
+        \item If both \(\int_a^\infty f(x)dx\) and \(\int_{-\infty}^{a}f(x)dx\) are convergent, the we define \[
+        \int_{-\infty}^{\infty} f(x)dx = \int_{-\infty}^{a}f(x)dx + \int_a^\infty f(x)dx    
+        \]
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Example}
+    Determine whether the integral \(\int_1^\infty (1/x)dx\) is convergent or divergent. 
+\end{frame}
+
+\begin{frame}{Example 2}
+    Evaluate \[\int_{-\infty}^0 x e^x~dx. \]
+\end{frame}
+
+\begin{frame}{Example 3}
+    Evaluate \[\int_{-\infty}^{\infty}\dfrac{1}{1+x^2}dx\]
+\end{frame}
+
+\begin{frame}{Example 4}
+    For what values of \(p\) is the integral \[\int_1^{\infty} \dfrac{1}{x^{p}}dx\] convergent? 
+    
+\end{frame}
+
+\begin{frame}{Remark}
+    \(\displaystyle \int_{1}^{\infty}\dfrac{1}{x^p}dx\) is convergent if \(p>1\) and divergent if \(p \leq 1\).
+\end{frame}
 
 
 

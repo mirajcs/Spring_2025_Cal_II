@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743955172.20979 "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_apr04.tex" "sp_25_cal_II_lec_apr04.pdf" "sp_25_cal_II_lec_apr04" 1743955173.03467 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_apr04.tex" 1743955172.00488 3274 a1399cdc9c1838ec18faa9cd8468bb30 ""
+["pdflatex"] 1744559846.95842 "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_apr04.tex" "sp_25_cal_II_lec_apr04.pdf" "sp_25_cal_II_lec_apr04" 1744559847.73502 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Call_II/sp_25_cal_II_lec_apr04.tex" 1744559846.76757 3359 fdca95e2a62a102fd3f8ba6816017bb1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -214,10 +214,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_cal_II_lec_apr04.aux" 1743955172.9794 2500 60786965866533d23e7067a883dc8d72 "pdflatex"
-  "sp_25_cal_II_lec_apr04.nav" 1743955172.98009 1671 313c4dfb96cb4b1331bb28a33c9fce0a "pdflatex"
-  "sp_25_cal_II_lec_apr04.out" 1743955172.70866 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_cal_II_lec_apr04.tex" 1743955172.00488 3274 a1399cdc9c1838ec18faa9cd8468bb30 ""
+  "sp_25_cal_II_lec_apr04.aux" 1744559847.68076 2500 19c2b07dd095c5b75f944261acc22ec0 "pdflatex"
+  "sp_25_cal_II_lec_apr04.nav" 1744559847.68148 1671 b4c7232dd7cd74f2c89b0581a3f39dba "pdflatex"
+  "sp_25_cal_II_lec_apr04.out" 1744559847.4075 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_cal_II_lec_apr04.tex" 1744559846.76757 3359 fdca95e2a62a102fd3f8ba6816017bb1 ""
   (generated)
   "sp_25_cal_II_lec_apr04.aux"
   "sp_25_cal_II_lec_apr04.log"
